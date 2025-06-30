@@ -55,7 +55,7 @@ You can find the full research paper [here](./paper/AI_Multilingual_LLM_Research
 
 ## 🙏 Acknowledgements
 
-Thanks to [AI4Bharat](https://ai4bharat.org), HuggingFace, and the open-source community.
+Thanks to [AI4Bharat](https://ai4bharat.org), and the open-source community.
 
 ---
 
